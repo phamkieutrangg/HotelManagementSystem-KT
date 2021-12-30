@@ -1,0 +1,9 @@
+.one-time {
+    width: 100px;
+    height: 100px;
+}
+
+.one-time .slick-slide img{
+    width: 100%;
+    height: 100%;
+}
